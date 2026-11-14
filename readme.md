@@ -1,14 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/red-angelo-panugaling/red-angelo-panugaling/main/gif/header%20background.gif" width="100%" alt="Animated custom header background" />
-
-# Red Angelo Panugaling
-
-### BS Information Technology Student · Aspiring Software Developer
-
-Learning by building practical projects in web development, software, and technology.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=C8B6FF&center=true&vCenter=true&width=520&lines=Curious+by+nature%2C+builder+by+practice;Learning+web+development+one+project+at+a+time;Turning+ideas+into+working+software" alt="Curious by nature, builder by practice. Learning web development one project at a time." />
+<img src="gif/profile-header.png" width="100%" alt="Red Angelo Panugaling — BS Information Technology Student · Aspiring Software Developer. Learning by building practical projects in web development, software, and technology." />
 
 [About](#about-me) · [Tech Stack](#tech-stack) · [Projects](#featured-projects) · [GitHub Activity](#github-activity) · [Currently Learning](#currently-learning) · [Connect](#connect-with-me)
 
