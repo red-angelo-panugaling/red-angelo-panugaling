@@ -27,29 +27,34 @@ I’m working toward becoming a professional software developer, growing my foun
 
 The technologies below are drawn from my existing profile and public repositories.
 
-<img align="right" width="260" src="gif/tech-stack-sticker.gif" alt="Animated illustration of a student working at a desk" />
-
-**Programming Languages**  
-<img src="https://skillicons.dev/icons?i=java,js,php&theme=dark" height="38" alt="Java, JavaScript, and PHP" />  
-<sub>Java · JavaScript · PHP</sub>
-
-**Frontend Development**  
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="38" alt="HTML, CSS, and JavaScript" />  
-<sub>HTML · CSS · JavaScript</sub>
-
-**Backend Development**  
-<img src="https://skillicons.dev/icons?i=php&theme=dark" height="38" alt="PHP" />  
-<sub>PHP</sub>
-
-**Database**  
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="38" alt="MySQL" />  
-<sub>MySQL · SQL</sub>
-
-**Tools and Platforms**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="38" alt="Git, GitHub, and Visual Studio Code" />  
-<sub>Git · GitHub · Visual Studio Code</sub>
-
-<br clear="right" />
+<table>
+  <thead>
+    <tr><th>Category</th><th>Technologies</th><th></th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Programming Languages</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=java,js,php&theme=dark" height="32" alt="Java, JavaScript, and PHP" /><br><sub>Java · JavaScript · PHP</sub></td>
+      <td rowspan="5" align="center" valign="middle"><img src="gif/tech-stack-sticker.gif" width="260" alt="Animated illustration of a student working at a desk" /></td>
+    </tr>
+    <tr>
+      <td><strong>Frontend Development</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="32" alt="HTML, CSS, and JavaScript" /><br><sub>HTML · CSS · JavaScript</sub></td>
+    </tr>
+    <tr>
+      <td><strong>Backend Development</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=php&theme=dark" height="32" alt="PHP" /><br><sub>PHP</sub></td>
+    </tr>
+    <tr>
+      <td><strong>Database</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="32" alt="MySQL" /><br><sub>MySQL · SQL</sub></td>
+    </tr>
+    <tr>
+      <td><strong>Tools and Platforms</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="32" alt="Git, GitHub, and Visual Studio Code" /><br><sub>Git · GitHub · Visual Studio Code</sub></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Featured Projects
 
