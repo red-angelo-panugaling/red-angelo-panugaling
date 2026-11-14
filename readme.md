@@ -48,12 +48,12 @@ The technologies below are drawn from my existing profile and public repositorie
 
 <div align="center">
 
-<a href="https://github.com/red-angelo-panugaling"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=red-angelo-panugaling&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=F472B6&text_color=C9D1D9" alt="GitHub profile statistics" /></a>
-<a href="https://github.com/red-angelo-panugaling?tab=repositories"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=red-angelo-panugaling&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=C9D1D9" alt="Most used languages in public repositories" /></a>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=red-angelo-panugaling&theme=github_dark" alt="GitHub profile statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=red-angelo-panugaling&theme=github_dark" alt="Most used languages in public repositories" />
 
-<a href="https://github.com/red-angelo-panugaling"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=red-angelo-panugaling&theme=github_dark" alt="GitHub contribution activity and profile overview" /></a>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=red-angelo-panugaling&theme=github_dark" alt="GitHub contribution activity and profile overview" />
 
-<a href="https://github.com/red-angelo-panugaling"><img width="70%" src="https://streak-stats.demolab.com?user=red-angelo-panugaling&hide_border=true&background=0D1117&ring=C084FC&fire=F472B6&currStreakLabel=C4B5FD&sideLabels=A1A1AA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&stroke=3F3F46" alt="GitHub contribution streak statistics" /></a>
+<img width="70%" src="https://streak-stats.demolab.com?user=red-angelo-panugaling&hide_border=true&background=0D1117&ring=C084FC&fire=F472B6&currStreakLabel=C4B5FD&sideLabels=A1A1AA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&stroke=3F3F46" alt="GitHub contribution streak statistics" />
 
 </div>
 
