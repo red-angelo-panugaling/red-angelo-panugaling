@@ -2,24 +2,19 @@
 
 <img src="gif/profile-header.svg" width="100%" alt="Red Angelo Panugaling — BS Information Technology Student · Aspiring Software Developer. Learning by building practical projects in web development, software, and technology." />
 
-<a href="#about-me"><img src="https://img.shields.io/badge/ABOUT-21262D?style=flat-square" alt="About" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/TECH%20STACK-21262D?style=flat-square" alt="Tech Stack" /></a>
-<a href="#featured-projects"><img src="https://img.shields.io/badge/PROJECTS-21262D?style=flat-square" alt="Projects" /></a>
-<a href="#github-activity"><img src="https://img.shields.io/badge/ACTIVITY-21262D?style=flat-square" alt="GitHub Activity" /></a>
-<a href="#currently-learning"><img src="https://img.shields.io/badge/LEARNING-21262D?style=flat-square" alt="Currently Learning" /></a>
-<a href="#connect-with-me"><img src="https://img.shields.io/badge/CONNECT-21262D?style=flat-square" alt="Connect" /></a>
-
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I’m a **Bachelor of Science in Information Technology student at Davao del Sur State College**. I enjoy learning how software works by building small web projects, apps, and systems that solve practical problems.
 
 I’m working toward becoming a professional software developer, growing my foundations in programming, web development, and databases with each project.
 
-## Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 The technologies below are drawn from my existing profile and public repositories.
 
@@ -31,7 +26,7 @@ The technologies below are drawn from my existing profile and public repositorie
     <tr>
       <td><strong>Programming Languages</strong></td>
       <td><img src="https://skillicons.dev/icons?i=java,js,php&theme=dark" height="32" alt="Java, JavaScript, and PHP" /><br><sub>Java · JavaScript · PHP</sub></td>
-      <td rowspan="5" align="center" valign="middle"><img src="gif/tech-stack-sticker.gif" width="260" alt="Animated illustration of a student working at a desk" /></td>
+      <td rowspan="5" align="center" valign="middle"><img src="gif/tech-stack-sticker.gif" width="240" alt="Animated illustration of a student working at a desk" /></td>
     </tr>
     <tr>
       <td><strong>Frontend Development</strong></td>
@@ -52,15 +47,29 @@ The technologies below are drawn from my existing profile and public repositorie
   </tbody>
 </table>
 
-## Featured Projects
+---
 
-| Selected project | Selected project |
-|:---|:---|
-| 🦖 **[Dinasure](https://github.com/red-angelo-panugaling/dinasure)**<br>An offline dinosaur runner game.<br><sub>JavaScript</sub> | 🤖 **[AI Chatbot](https://github.com/red-angelo-panugaling/aichatbot)**<br>A chatbot project from my repository collection.<br><sub>JavaScript</sub> |
-| 🏍️ **[Motorcycle Display System](https://github.com/red-angelo-panugaling/motorcycle_display_system)**<br>A motorcycle display system project.<br><sub>PHP</sub> | 🧩 **[Portfolio](https://github.com/red-angelo-panugaling/portfolio)**<br>My portfolio website.<br><sub>CSS</sub> |
-| 📓 **[ML Project Compilation](https://github.com/red-angelo-panugaling/ml-project-compiltion)**<br>A collection of machine-learning notebooks and projects.<br><sub>Jupyter Notebook</sub> | 🗂️ **[Browse all repositories →](https://github.com/red-angelo-panugaling?tab=repositories)**<br>Explore more of my work on GitHub. |
+## 📈 Approach
 
-## GitHub Activity
+I learn by building practical projects. Each one helps me strengthen my programming, web development, and database foundations as I work toward becoming a professional software developer.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack | About |
+|:--|:--|:--|
+| 🦖 **[Dinasure](https://github.com/red-angelo-panugaling/dinasure)** | JavaScript | Offline dinosaur runner game. |
+| 🤖 **[AI Chatbot](https://github.com/red-angelo-panugaling/aichatbot)** | JavaScript | Chatbot project from my repository collection. |
+| 🏍️ **[Motorcycle Display System](https://github.com/red-angelo-panugaling/motorcycle_display_system)** | PHP | Motorcycle display system project. |
+| 🧩 **[Portfolio](https://github.com/red-angelo-panugaling/portfolio)** | CSS | Portfolio website. |
+| 📓 **[ML Project Compilation](https://github.com/red-angelo-panugaling/ml-project-compiltion)** | Jupyter Notebook | Collection of machine-learning notebooks and projects. |
+
+[Browse all repositories →](https://github.com/red-angelo-panugaling?tab=repositories)
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -73,13 +82,17 @@ The technologies below are drawn from my existing profile and public repositorie
 
 </div>
 
-## Currently Learning
+---
+
+## 📚 Currently Learning
 
 - Full-stack web development
 - Database design and SQL
 - Practical software and system development
 
-## Connect With Me
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
