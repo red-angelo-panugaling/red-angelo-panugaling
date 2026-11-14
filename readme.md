@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="gif/profile-header.gif" width="100%" alt="Animated landscape with a runner in red" />
-
-# Red Angelo Panugaling
-
-### BS Information Technology Student · Aspiring Software Developer
-
-Learning by building practical projects in web development, software, and technology.
+<img src="gif/profile-header.svg" width="100%" alt="Red Angelo Panugaling — BS Information Technology Student · Aspiring Software Developer. Learning by building practical projects in web development, software, and technology." />
 
 <a href="#about-me"><img src="https://img.shields.io/badge/ABOUT-21262D?style=flat-square" alt="About" /></a>
 <a href="#tech-stack"><img src="https://img.shields.io/badge/TECH%20STACK-21262D?style=flat-square" alt="Tech Stack" /></a>
