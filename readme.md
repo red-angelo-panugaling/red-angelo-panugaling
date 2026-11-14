@@ -1,114 +1,78 @@
 <div align="center">
 
-<img src="gif/profile-header.svg" width="100%" alt="Red Angelo Panugaling — BS Information Technology Student · Aspiring Software Developer. Learning by building practical projects in web development, software, and technology." />
+# Red Angelo Panugaling
+
+### BS Information Technology Student · Aspiring Software Developer
+
+I build practical projects to learn how software works, from interactive web experiences to useful systems.
+
+[![GitHub](https://img.shields.io/badge/GitHub-red--angelo--panugaling-181717?style=for-the-badge&logo=github)](https://github.com/red-angelo-panugaling)
+[![Profile views](https://komarev.com/ghpvc/?username=red-angelo-panugaling&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/red-angelo-panugaling)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I’m a **Bachelor of Science in Information Technology student at Davao del Sur State College**. I enjoy learning how software works by building small web projects, apps, and systems that solve practical problems.
+I’m a **Bachelor of Science in Information Technology student at Davao del Sur State College**. I enjoy turning ideas into small web projects, apps, and systems that solve practical problems.
 
-I’m working toward becoming a professional software developer, growing my foundations in programming, web development, and databases with each project.
+I’m building a strong foundation in programming, web development, and databases as I work toward becoming a software developer. I learn best by making things, improving them, and sharing what I create.
 
----
+## 🧰 Technology I Use
 
-## 🛠️ Tech Stack
+<div align="center">
 
-The technologies below are drawn from my existing profile and public repositories.
+[![Java, JavaScript, PHP, HTML, CSS, MySQL, Git, GitHub, VS Code](https://skillicons.dev/icons?i=java,js,php,html,css,mysql,git,github,vscode&theme=dark)](https://skillicons.dev)
 
-<table>
-  <thead>
-    <tr><th>Category</th><th>Technologies</th><th></th></tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Programming Languages</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=java,js,php&theme=dark" height="32" alt="Java, JavaScript, and PHP" /><br><sub>Java · JavaScript · PHP</sub></td>
-      <td rowspan="5" align="center" valign="middle"><img src="gif/tech-stack-sticker.gif" width="240" alt="Animated illustration of a student working at a desk" /></td>
-    </tr>
-    <tr>
-      <td><strong>Frontend Development</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="32" alt="HTML, CSS, and JavaScript" /><br><sub>HTML · CSS · JavaScript</sub></td>
-    </tr>
-    <tr>
-      <td><strong>Backend Development</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=php&theme=dark" height="32" alt="PHP" /><br><sub>PHP</sub></td>
-    </tr>
-    <tr>
-      <td><strong>Database</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="32" alt="MySQL" /><br><sub>MySQL · SQL</sub></td>
-    </tr>
-    <tr>
-      <td><strong>Tools and Platforms</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="32" alt="Git, GitHub, and Visual Studio Code" /><br><sub>Git · GitHub · Visual Studio Code</sub></td>
-    </tr>
-  </tbody>
-</table>
+**Languages:** Java · JavaScript · PHP · HTML · CSS  
+**Database:** MySQL  
+**Tools:** Git · GitHub · Visual Studio Code
 
----
-
-## 📈 Approach
-
-I learn by building practical projects. Each one helps me strengthen my programming, web development, and database foundations as I work toward becoming a professional software developer.
-
----
+</div>
 
 ## 🚀 Featured Projects
 
-| Project | Stack | About |
+| Project | Built with | What it is |
 |:--|:--|:--|
-| 🦖 **[Dinasure](https://github.com/red-angelo-panugaling/dinasure)** | JavaScript | Offline dinosaur runner game. |
-| 🤖 **[AI Chatbot](https://github.com/red-angelo-panugaling/aichatbot)** | JavaScript | Chatbot project from my repository collection. |
-| 🏍️ **[Motorcycle Display System](https://github.com/red-angelo-panugaling/motorcycle_display_system)** | PHP | Motorcycle display system project. |
-| 🧩 **[Portfolio](https://github.com/red-angelo-panugaling/portfolio)** | CSS | Portfolio website. |
-| 📓 **[ML Project Compilation](https://github.com/red-angelo-panugaling/ml-project-compiltion)** | Jupyter Notebook | Collection of machine-learning notebooks and projects. |
+| [🦖 Dinasure](https://github.com/red-angelo-panugaling/dinasure) | JavaScript | An offline dinosaur runner game. |
+| [🤖 AI Chatbot](https://github.com/red-angelo-panugaling/aichatbot) | JavaScript | A chatbot project exploring interactive experiences. |
+| [🏍️ Motorcycle Display System](https://github.com/red-angelo-panugaling/motorcycle_display_system) | PHP | A system for displaying motorcycle information. |
+| [🧩 Portfolio](https://github.com/red-angelo-panugaling/portfolio) | CSS | My portfolio website. |
+| [📓 ML Project Compilation](https://github.com/red-angelo-panugaling/ml-project-compiltion) | Jupyter Notebook | A collection of machine-learning notebooks and projects. |
 
-[Browse all repositories →](https://github.com/red-angelo-panugaling?tab=repositories)
+<div align="center">
 
----
+### More projects, more things to learn.
 
-## 📊 GitHub Activity
+[**Browse all my repositories →**](https://github.com/red-angelo-panugaling?tab=repositories)
+
+</div>
+
+## 📈 GitHub Snapshot
 
 <div align="center">
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=red-angelo-panugaling&theme=github_dark" alt="GitHub profile statistics" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=red-angelo-panugaling&theme=github_dark" alt="Most used languages in public repositories" />
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=red-angelo-panugaling&theme=github_dark" alt="GitHub contribution activity and profile overview" />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=red-angelo-panugaling&hide_border=true&background=0D1117&ring=C084FC&fire=F472B6&currStreakLabel=C4B5FD&sideLabels=A1A1AA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&stroke=3F3F46" alt="GitHub contribution streak statistics" />
+<img width="80%" src="https://streak-stats.demolab.com?user=red-angelo-panugaling&hide_border=true&background=0D1117&ring=C084FC&fire=F472B6&currStreakLabel=C4B5FD&sideLabels=A1A1AA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&stroke=3F3F46" alt="GitHub contribution streak statistics" />
 
 </div>
 
----
-
-## 📚 Currently Learning
+## 🌱 What I’m Learning
 
 - Full-stack web development
 - Database design and SQL
-- Practical software and system development
+- Building practical software and systems
 
----
-
-## 🌐 Connect With Me
+## 🤝 Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/red-angelo-panugaling)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/z.vlmr20)
 
-</div>
-
----
-
-<div align="center">
-
 *Keep learning. Keep building. See you in the next project.*
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=red-angelo-panugaling&style=flat-square&color=6C5AA7&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
