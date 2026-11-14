@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/red-angelo-panugaling/red-angelo-panugaling/main/gif/header%20background.gif" width="100%" alt="Animated custom profile header background" />
+
 # Red Angelo Panugaling
 
 ### BS Information Technology Student · Aspiring Software Developer
