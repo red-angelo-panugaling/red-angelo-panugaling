@@ -2,10 +2,12 @@
 
 <img src="gif/profile-header.png" width="100%" alt="Red Angelo Panugaling — BS Information Technology Student · Aspiring Software Developer. Learning by building practical projects in web development, software, and technology." />
 
-[About](#about-me) · [Tech Stack](#tech-stack) · [Projects](#featured-projects) · [GitHub Activity](#github-activity) · [Currently Learning](#currently-learning) · [Connect](#connect-with-me)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/red-angelo-panugaling)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/z.vlmr20)
+<a href="#about-me"><img src="https://img.shields.io/badge/ABOUT-21262D?style=flat-square" alt="About" /></a>
+<a href="#tech-stack"><img src="https://img.shields.io/badge/TECH%20STACK-21262D?style=flat-square" alt="Tech Stack" /></a>
+<a href="#featured-projects"><img src="https://img.shields.io/badge/PROJECTS-21262D?style=flat-square" alt="Projects" /></a>
+<a href="#github-activity"><img src="https://img.shields.io/badge/ACTIVITY-21262D?style=flat-square" alt="GitHub Activity" /></a>
+<a href="#currently-learning"><img src="https://img.shields.io/badge/LEARNING-21262D?style=flat-square" alt="Currently Learning" /></a>
+<a href="#connect-with-me"><img src="https://img.shields.io/badge/CONNECT-21262D?style=flat-square" alt="Connect" /></a>
 
 </div>
 
@@ -21,28 +23,21 @@ I’m working toward becoming a professional software developer, growing my foun
 
 The technologies below are drawn from my existing profile and public repositories.
 
-**Programming Languages**  
-<img src="https://skillicons.dev/icons?i=java,js,php&theme=dark" alt="Java, JavaScript, and PHP" />
-
-**Frontend Development**  
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, and JavaScript" />
-
-**Backend Development**  
-<img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" />
-
-**Database**  
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
-
-**Tools and Platforms**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, and Visual Studio Code" />
+| Category | Technologies |
+|:--|:--|
+| **Programming Languages** | <img src="https://skillicons.dev/icons?i=java,js,php&theme=dark" height="38" alt="Java, JavaScript, and PHP" /> |
+| **Frontend Development** | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="38" alt="HTML, CSS, and JavaScript" /> |
+| **Backend Development** | <img src="https://skillicons.dev/icons?i=php&theme=dark" height="38" alt="PHP" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="38" alt="MySQL" /> |
+| **Tools and Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="38" alt="Git, GitHub, and Visual Studio Code" /> |
 
 ## Featured Projects
 
 | Selected project | Selected project |
 |:---|:---|
-| **[Dinasure](https://github.com/red-angelo-panugaling/dinasure)**<br>An offline dinosaur runner game.<br><sub>JavaScript</sub> | **[AI Chatbot](https://github.com/red-angelo-panugaling/aichatbot)**<br>A chatbot project from my repository collection.<br><sub>JavaScript</sub> |
-| **[Motorcycle Display System](https://github.com/red-angelo-panugaling/motorcycle_display_system)**<br>A motorcycle display system project.<br><sub>PHP</sub> | **[Portfolio](https://github.com/red-angelo-panugaling/portfolio)**<br>My portfolio website.<br><sub>CSS</sub> |
-| **[ML Project Compilation](https://github.com/red-angelo-panugaling/ml-project-compiltion)**<br>A collection of machine-learning notebooks and projects.<br><sub>Jupyter Notebook</sub> | **[Browse all repositories →](https://github.com/red-angelo-panugaling?tab=repositories)**<br>Explore more of my work on GitHub. |
+| 🦖 **[Dinasure](https://github.com/red-angelo-panugaling/dinasure)**<br>An offline dinosaur runner game.<br><sub>JavaScript</sub> | 🤖 **[AI Chatbot](https://github.com/red-angelo-panugaling/aichatbot)**<br>A chatbot project from my repository collection.<br><sub>JavaScript</sub> |
+| 🏍️ **[Motorcycle Display System](https://github.com/red-angelo-panugaling/motorcycle_display_system)**<br>A motorcycle display system project.<br><sub>PHP</sub> | 🧩 **[Portfolio](https://github.com/red-angelo-panugaling/portfolio)**<br>My portfolio website.<br><sub>CSS</sub> |
+| 📓 **[ML Project Compilation](https://github.com/red-angelo-panugaling/ml-project-compiltion)**<br>A collection of machine-learning notebooks and projects.<br><sub>Jupyter Notebook</sub> | 🗂️ **[Browse all repositories →](https://github.com/red-angelo-panugaling?tab=repositories)**<br>Explore more of my work on GitHub. |
 
 ## GitHub Activity
 
