@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="gif/profile-header.png" width="100%" alt="Red Angelo Panugaling — BS Information Technology Student · Aspiring Software Developer. Learning by building practical projects in web development, software, and technology." />
+# Red Angelo Panugaling
+
+### BS Information Technology Student · Aspiring Software Developer
+
+Learning by building practical projects in web development, software, and technology.
 
 <a href="#about-me"><img src="https://img.shields.io/badge/ABOUT-21262D?style=flat-square" alt="About" /></a>
 <a href="#tech-stack"><img src="https://img.shields.io/badge/TECH%20STACK-21262D?style=flat-square" alt="Tech Stack" /></a>
@@ -23,13 +27,29 @@ I’m working toward becoming a professional software developer, growing my foun
 
 The technologies below are drawn from my existing profile and public repositories.
 
-| Category | Technologies |
-|:--|:--|
-| **Programming Languages** | <img src="https://skillicons.dev/icons?i=java,js,php&theme=dark" height="32" alt="Java, JavaScript, and PHP" /><br>Java · JavaScript · PHP |
-| **Frontend Development** | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="32" alt="HTML, CSS, and JavaScript" /><br>HTML · CSS · JavaScript |
-| **Backend Development** | <img src="https://skillicons.dev/icons?i=php&theme=dark" height="32" alt="PHP" /><br>PHP |
-| **Database** | <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="32" alt="MySQL" /><br>MySQL · SQL |
-| **Tools and Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="32" alt="Git, GitHub, and Visual Studio Code" /><br>Git · GitHub · Visual Studio Code |
+<img align="right" width="260" src="gif/tech-stack-sticker.gif" alt="Animated illustration of a student working at a desk" />
+
+**Programming Languages**  
+<img src="https://skillicons.dev/icons?i=java,js,php&theme=dark" height="38" alt="Java, JavaScript, and PHP" />  
+<sub>Java · JavaScript · PHP</sub>
+
+**Frontend Development**  
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="38" alt="HTML, CSS, and JavaScript" />  
+<sub>HTML · CSS · JavaScript</sub>
+
+**Backend Development**  
+<img src="https://skillicons.dev/icons?i=php&theme=dark" height="38" alt="PHP" />  
+<sub>PHP</sub>
+
+**Database**  
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="38" alt="MySQL" />  
+<sub>MySQL · SQL</sub>
+
+**Tools and Platforms**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="38" alt="Git, GitHub, and Visual Studio Code" />  
+<sub>Git · GitHub · Visual Studio Code</sub>
+
+<br clear="right" />
 
 ## Featured Projects
 
