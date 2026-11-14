@@ -25,11 +25,11 @@ The technologies below are drawn from my existing profile and public repositorie
 
 | Category | Technologies |
 |:--|:--|
-| **Programming Languages** | <img src="https://skillicons.dev/icons?i=java,js,php&theme=dark" height="38" alt="Java, JavaScript, and PHP" /> |
-| **Frontend Development** | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="38" alt="HTML, CSS, and JavaScript" /> |
-| **Backend Development** | <img src="https://skillicons.dev/icons?i=php&theme=dark" height="38" alt="PHP" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="38" alt="MySQL" /> |
-| **Tools and Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="38" alt="Git, GitHub, and Visual Studio Code" /> |
+| **Programming Languages** | <img src="https://skillicons.dev/icons?i=java,js,php&theme=dark" height="32" alt="Java, JavaScript, and PHP" /><br>Java · JavaScript · PHP |
+| **Frontend Development** | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="32" alt="HTML, CSS, and JavaScript" /><br>HTML · CSS · JavaScript |
+| **Backend Development** | <img src="https://skillicons.dev/icons?i=php&theme=dark" height="32" alt="PHP" /><br>PHP |
+| **Database** | <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="32" alt="MySQL" /><br>MySQL · SQL |
+| **Tools and Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="32" alt="Git, GitHub, and Visual Studio Code" /><br>Git · GitHub · Visual Studio Code |
 
 ## Featured Projects
 
@@ -72,5 +72,9 @@ The technologies below are drawn from my existing profile and public repositorie
 <div align="center">
 
 *Keep learning. Keep building. See you in the next project.*
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=red-angelo-panugaling&style=flat-square&color=6C5AA7&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
